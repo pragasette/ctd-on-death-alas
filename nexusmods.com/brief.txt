@@ -1,0 +1,1 @@
+Quit the game when health reaches zero.

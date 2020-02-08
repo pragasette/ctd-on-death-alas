@@ -1,0 +1,32 @@
+[center][url=https://www.nexusmods.com/skyrim/mods/101299]Skyrim[/url] | [url=https://github.com/pragasette/ctd-on-death-alas]GitHub[/url][/center]
+
+[quote]
+[i]The literal definition of "It's not a bug, it's a feature!"[/i]
+– [url=https://www.reddit.com/r/skyrimmods/comments/f0kda6/mod_request_ctd_on_death/fgutvwq/]/u/StoneOfLight[/url]
+﻿[/quote]
+Made on [url=https://www.reddit.com/r/skyrimmods/comments/f0kda6/mod_request_ctd_on_death/]request[/url].
+
+
+[b]Requirements[/b]
+
+[list]
+[*][url=https://elderscrolls.bethesda.net/en/skyrim]The Elder Scrolls V: Skyrim Special Edition[/url].
+[/list]
+
+[b]Installation[/b]
+
+[list]
+[*]Use your mod manager of choice, [url=https://www.nexusmods.com/skyrimspecialedition/mods/6194]Mod Organizer 2[/url] is recommended.
+[/list]
+
+[b]Known Issues[/b]
+
+[list]
+[*]This technically doesn't [i]crash[/i] to desktop, it exits gently using an [url=https://www.creationkit.com/index.php?title=QuitGame_-_Debug]existing function of the game scripting language[/url].
+[/list]
+
+[b]TODO[/b]
+
+[list]
+[*]Turn it into a [url=https://skse.silverlock.org/]SKSE[/url] plugin to make the process actually crash, by trying to access an invalid memory address, or employing more advanced techniques.
+[/list]
