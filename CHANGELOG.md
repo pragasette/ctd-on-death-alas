@@ -12,6 +12,7 @@ The format is based on [Keep a Changelog], and this project adheres to
 - Quit game on death.
 - This changelog.
 - Readme.
+- License.
 
 
 [Keep a Changelog]: https://keepachangelog.com/en/1.0.0/
