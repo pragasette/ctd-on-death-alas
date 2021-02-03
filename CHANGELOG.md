@@ -8,8 +8,8 @@ The format is based on [Keep a Changelog], and this project adheres to
 ## [1.0.0] - 2020-02-08
 
 ### Added
-
 - Quit game on death.
+- Special Edition: ESL flag.
 - This changelog.
 - Readme.
 - License.

@@ -1,32 +1,22 @@
-[center][url=https://www.nexusmods.com/skyrimspecialedition/mods/32476]Skyrim Special Edition[/url] | [url=https://github.com/pragasette/ctd-on-death-alas]GitHub[/url][/center]
+[center][font=bebas_neuebook][size=5]Classic Edition • [url=https://www.nexusmods.com/skyrimspecialedition/mods/32476]Special Edition[/url] • [url=https://github.com/pragasette/ctd-on-death-alas]GitHub[/url][/size][/font][/center]
 
 [quote]
 [i]The literal definition of "It's not a bug, it's a feature!"[/i]
-– [url=https://www.reddit.com/r/skyrimmods/comments/f0kda6/mod_request_ctd_on_death/fgutvwq/]/u/StoneOfLight[/url]
-﻿[/quote]
-Made on [url=https://www.reddit.com/r/skyrimmods/comments/f0kda6/mod_request_ctd_on_death/]request[/url].
+― [url=https://www.reddit.com/r/skyrimmods/comments/f0kda6/mod_request_ctd_on_death/fgutvwq/]u/StoneOfLight[/url]
+[/quote]
 
+[heading]Installation[/heading]
+Use your mod manager of choice, [url=https://www.nexusmods.com/skyrimspecialedition/mods/6194]Mod Organizer 2[/url] is recommended.
+&#8203;
 
-[b]Requirements[/b]
-
+[heading]Known Issues[/heading]
 [list]
-[*][url=https://elderscrolls.bethesda.net/en/skyrim]The Elder Scrolls V: Skyrim[/url].
-[/list]
+[*]This technically doesn't [i]crash[/i] to desktop, it exits gently using an [url=https://www.creationkit.com/index.php?title=QuitGame_-_Debug]existing function of the game scripting language[/url].[/list]
 
-[b]Installation[/b]
-
+[heading]TODO[/heading]
 [list]
-[*]Use your mod manager of choice, [url=https://www.nexusmods.com/skyrimspecialedition/mods/6194]Mod Organizer 2[/url] is recommended.
-[/list]
+[*]Turn it into a [url=https://skse.silverlock.org/]SKSE[/url] plugin to make the process actually crash, by trying to access an invalid memory address, or employing more advanced techniques.[/list]
 
-[b]Known Issues[/b]
-
+[heading]Credits[/heading]
 [list]
-[*]This technically doesn't [i]crash[/i] to desktop, it exits gently using an [url=https://www.creationkit.com/index.php?title=QuitGame_-_Debug]existing function of the game scripting language[/url].
-[/list]
-
-[b]TODO[/b]
-
-[list]
-[*]Turn it into a [url=https://skse.silverlock.org/]SKSE[/url] plugin to make the process actually crash, by trying to access an invalid memory address, or employing more advanced techniques.
-[/list]
+[*] [url=https://www.reddit.com/r/skyrimmods/comments/f0kda6/mod_request_ctd_on_death/]u/EuphoricKnave[/url] for the idea.[/list]
